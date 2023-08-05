@@ -10,11 +10,7 @@ This supermarket billing system is a simple console application built in C++ wit
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [Contact](#contact)
-
 
 
 ### Built With
@@ -48,11 +44,3 @@ It would be best if you are familiar with the following concepts in C++ before j
 ## Contact
 
 Project Link: [https://github.com/Sachingpt771/Billing-System/](https://github.com/Sachingpt771/Billing-System/)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* I would like to express my special thanks of gratitude to my faculty (Romy Sir) who gave us the golden opportunity to do this wonderful project on the topic 
-supermarket-billing-system, Which helped us gain a lot of indepth knowledge on the CPP core concepts as well as OOP concepts.
