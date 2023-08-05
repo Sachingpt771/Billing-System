@@ -26,6 +26,6 @@ It would be best if you are familiar with the following concepts in C++ before j
 * File handling.
 <!-- CONTACT -->
 ## Contact
-Project Link: [https://github.com/mg143pavankumar/supermarket-billing-system/](https://github.com/mg143pavankumar/supermarket-billing-system/)
+Project Link: [https://github.com/Sachingpt771/Billing-System/](https://https://github.com/Sachingpt771/Billing-System/)
 
 
