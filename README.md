@@ -1,5 +1,6 @@
-# Super-Market-Billing-System
-A super market billing system made using CPP by Team #3, CSE B submitting for our Object Oriented Programming using C++ mini project in the academic year 2020-21.
+Supermarket billing system is based on the concept to generate the bill reports and to add items and update their details. The whole concept is designed via c++ language.
+
+This supermarket billing system is a simple console application built in C++ without the use of graphics. This project will help you understand basically two things – use of stream class and file handling in c++ programming language.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -12,7 +13,6 @@ A super market billing system made using CPP by Team #3, CSE B submitting for ou
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 
 
@@ -44,35 +44,10 @@ It would be best if you are familiar with the following concepts in C++ before j
 ![BeFunky-collage (1)](https://user-images.githubusercontent.com/68140538/107849877-272bec00-6e24-11eb-8658-1ab82659b4b2.png)
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-This is our Mini Project for the subject Object Oriented Programming with C++, which we have submitted in our 2nd year, 1st Semester during the academic year 2020-21. 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/mg143pavankumar/supermarket-billing-system/](https://github.com/mg143pavankumar/supermarket-billing-system/)
+Project Link: [https://github.com/Sachingpt771/Billing-System/](https://github.com/Sachingpt771/Billing-System/)
 
 
 
